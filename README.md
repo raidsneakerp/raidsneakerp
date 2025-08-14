@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+- 💬 Ask me about ... me
+- 📫 How to reach me: ... no
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 <!--
 **raidsneakerp/raidsneakerp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
